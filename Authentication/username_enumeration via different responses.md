@@ -13,3 +13,12 @@ To solve the lab, enumerate a valid username, brute-force this user's password, 
 
 Add position for username and choose attack type as sniper and paste the wordlist given by portswigger and start the attack. After attack is finished you can use Grep Extract to see the responses with the payloads and through that there will be one entry which contains response as `invalid password` just like this,
 
+![image](https://github.com/Darry1968/Portswigger/assets/104063375/1f2b5199-03e4-44aa-81b5-626242c94d72)
+
+This means username is: atlas
+
+Repeat same process for password and which will look like this
+
+![image](https://github.com/Darry1968/Portswigger/assets/104063375/11b02bfc-13fd-4b02-9876-6d665befd0ea)
+
+This means password is: dallas
